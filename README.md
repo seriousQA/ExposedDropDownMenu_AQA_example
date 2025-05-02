@@ -14,5 +14,8 @@ import androidx.compose.ui.semantics.testTagsAsResourceId
 3) locate the root composable function in your UI and enable test tags by setting **testTagsAsResourceId** to true in the modifier
 4) add a test tag for each composable function you need to interact with during the tests
 
+![testTagAsResourceId](https://github.com/user-attachments/assets/a96bd6e1-8be8-489f-9ef8-80b5dd1c9613)
+![ExposedDropDownMenuItems](https://github.com/user-attachments/assets/f33ab081-5c8f-491f-906b-3c5a07c5b9eb)
+
 
 
