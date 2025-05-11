@@ -17,5 +17,13 @@ import androidx.compose.ui.semantics.testTagsAsResourceId
 ![testTagAsResourceId](https://github.com/user-attachments/assets/a96bd6e1-8be8-489f-9ef8-80b5dd1c9613)
 ![ExposedDropDownMenuItems](https://github.com/user-attachments/assets/f33ab081-5c8f-491f-906b-3c5a07c5b9eb)
 
+You can also use a contentDescription in the modifier to interact with UI elements during the tests.
+
+The advantage of the testTags is that you can get the value of the element's ‘text’ attribute:
+
+![image](https://github.com/user-attachments/assets/cc982773-d39b-4b78-98ac-d24aa1356b97)
+
+
+
 
 
